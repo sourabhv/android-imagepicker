@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RatioView">
+        <attr name="ratio" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="XImageView">
+        <attr name="view_AspectRatio" format="float" />
+    </declare-styleable>
+
+</resources>

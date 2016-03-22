@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="images">
+        <item quantity="zero">No Images</item>
+        <item quantity="one"><xliff id="count">%d</xliff> Image</item>
+        <item quantity="other"><xliff id="count">%d</xliff> Images</item>
+    </plurals>
+</resources>
